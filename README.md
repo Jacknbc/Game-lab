@@ -5,3 +5,43 @@ Questo è il repository della squadra composta da:
 - Simone Dovera
 - Giacomo Portoghese
 - Martina Salis
+   
+
+
+SCORRIMENTO LATERALE CON OSTACOLI
+
+PLAYER 1 DEVE ARRIVARE IN UN PUNTO 
+PLAYER 2 DEVE IMPEDIRGLIELO
+
+CI SONO 3 VITE
+
+3 ROUND PER PARTITA
+
+
+
+INTRODUZIONE:
+
+
+
+TITOLO
+
+
+MODALITA' COMPETIZIONE
+
+
+
+
+
+BACKGROUND AND CHARACTERS
+
+
+GAMEPLAY
+
+
+VILLAINS
+
+
+
+CONTROL AND CAMERA
+
+
