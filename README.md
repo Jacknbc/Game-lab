@@ -7,41 +7,20 @@ Questo è il repository della squadra composta da:
 - Martina Salis
    
 
-
-SCORRIMENTO LATERALE CON OSTACOLI
-
-PLAYER 1 DEVE ARRIVARE IN UN PUNTO 
-PLAYER 2 DEVE IMPEDIRGLIELO
-
-CI SONO 3 VITE
-
-3 ROUND PER PARTITA
+Titolo:
+RICHARD BUTTERS AND THE MAGIC BELT
 
 
 
-INTRODUZIONE:
+Storia:
+Richard Butters è un impiegato d'ufficio che viene rapido dagli alieni. Risvegliatosi in mutande su un tavolo operatorio, ruba una misteriosa cintura e tenta di scappare dall'astronave. L'alieno cerca di fermarlo.
 
 
 
-TITOLO
+Idea di gioco:
+Ogni partita è strutturata in tre round a tempo: a turno un giocatore deve fermare l'altro prima che arrivi al traguardo.
+I giocatori possono mutare dimensioni per raggiungere i loro obiettivi.
 
 
-MODALITA' COMPETIZIONE
-
-
-
-
-
-BACKGROUND AND CHARACTERS
-
-
-GAMEPLAY
-
-
-VILLAINS
-
-
-
-CONTROL AND CAMERA
-
-
+Gameplay:
+Gioco a scorrimento laterale, multiplayer competitivo. 1v1
