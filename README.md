@@ -24,3 +24,6 @@ I giocatori possono mutare dimensioni per raggiungere i loro obiettivi.
 
 Gameplay:
 Gioco a scorrimento laterale, multiplayer competitivo. 1v1
+
+
+ok
