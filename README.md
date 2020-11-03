@@ -1,4 +1,4 @@
-# Mutadimensione jack
+# Mutadimensione
 
 Questo è il repository della squadra composta da:
 - Tancredi Cavallari
@@ -9,8 +9,6 @@ Questo è il repository della squadra composta da:
 
 # Titolo
 RICHARD BUTTERS AND THE MAGIC BELT
-
-[MAURO WAS HERE]
 
 # Storia
 Richard Butters è un impiegato d'ufficio che viene rapido dagli alieni. Risvegliatosi in mutande su un tavolo operatorio, ruba una misteriosa cintura e tenta di scappare dall'astronave. L'alieno cerca di fermarlo.
@@ -24,6 +22,3 @@ I giocatori possono mutare dimensioni per raggiungere i loro obiettivi.
 
 # Gameplay
 Gioco a scorrimento laterale, multiplayer competitivo. 1v1
-
-
-ok
